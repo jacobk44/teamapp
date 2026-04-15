@@ -34,3 +34,33 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+
+# KJB Elite Cleaning Services
+
+A professional cleaning services website built with Next.js.
+
+## Group Members
+- Jacob Amoah (W02 Group Leader)
+- Brian Nabende
+- Jordan Edward Lwaya
+
+
+## Tech Stack
+- **Framework:** Next.js 14+
+- **Styling:** Tailwind CSS
+- **Deployment:** Vercel
+- **Project Management:** GitHub Projects
+
+## Getting Started
+1. Clone the repo: `git clone https://github.com/jacobk44/teamapp.git`
+2. Install dependencies: `pnpm install`
+3. Run dev server: `pnpm run dev`
+
+## Project Board
+View our tasks here: https://trello.com/b/Q6Pk6HW3/kjb-elite
+
+## vercel url 
+https://teamapp-six.vercel.app
